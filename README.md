@@ -1,2 +1,2 @@
 # Quiz 
-This is a yes and no quiz created by using the condtion statement, if and else conditional statement are used in the Quiz .
+This is a yes and no quiz created by using the condtion statements, if and else conditional statements are used in the Quiz.
